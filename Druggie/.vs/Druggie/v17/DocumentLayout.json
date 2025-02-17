@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|c:\\universe\\spbgti\\\u0431\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\app\\druggie - final final\\druggie\\formdrugedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|solutionrelative:druggie\\formdrugedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggie\\forminstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|solutionrelative:druggie\\forminstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggie\\formadminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|solutionrelative:druggie\\formadminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggie\\formadminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|solutionrelative:druggie\\formadminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggie\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|solutionrelative:druggie\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggie\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|solutionrelative:druggie\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggielibrary\\usermodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|solutionrelative:druggielibrary\\usermodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggielibrary\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|solutionrelative:druggielibrary\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggielibrary\\userdrugmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|solutionrelative:druggielibrary\\userdrugmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggielibrary\\sqlitedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|solutionrelative:druggielibrary\\sqlitedataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggielibrary\\manufacturermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|solutionrelative:druggielibrary\\manufacturermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggielibrary\\indicationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|solutionrelative:druggielibrary\\indicationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggielibrary\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|solutionrelative:druggielibrary\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggielibrary\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|solutionrelative:druggielibrary\\hashing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggielibrary\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|solutionrelative:druggielibrary\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggielibrary\\drugmodelconstructed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|solutionrelative:druggielibrary\\drugmodelconstructed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggielibrary\\drugmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|solutionrelative:druggielibrary\\drugmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggielibrary\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|solutionrelative:druggielibrary\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggielibrary\\classmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|solutionrelative:druggielibrary\\classmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggielibrary\\activeingredientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31371475-09CB-4CF5-9C77-C34E2861789C}|DruggieLibrary\\DruggieLibrary.csproj|solutionrelative:druggielibrary\\activeingredientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggie\\formadminpanel.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|solutionrelative:druggie\\formadminpanel.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggie\\formadminpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|solutionrelative:druggie\\formadminpanel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggie\\formdrugedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|solutionrelative:druggie\\formdrugedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|solutionrelative:druggie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggie\\forminstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|solutionrelative:druggie\\forminstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggie\\formdrugedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|solutionrelative:druggie\\formdrugedit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggie\\authorization.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|solutionrelative:druggie\\authorization.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robom\\AppData\\Local\\Temp\\MetadataAsSource\\31c03415ff8d4bfe990a66739986c60c\\DecompilationMetadataAsSourceFileProvider\\0270b673f8844337a9276f85427a4b84\\SQLiteFunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggie\\formdrugedit.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|solutionrelative:druggie\\formdrugedit.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\druggie\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0FC14FBF-806A-463C-B8F9-2C990093B460}|Druggie\\Druggie.csproj|solutionrelative:druggie\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 330,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Authorization.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\Authorization.cs",
+              "RelativeDocumentMoniker": "Druggie\\Authorization.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\Authorization.cs",
+              "RelativeToolTip": "Druggie\\Authorization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-11-16T11:37:43.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAdminPanel.cs [Design]",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormAdminPanel.cs",
+              "RelativeDocumentMoniker": "Druggie\\FormAdminPanel.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormAdminPanel.cs [Design]",
+              "RelativeToolTip": "Druggie\\FormAdminPanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-11-16T11:37:43.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAdminPanel.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormAdminPanel.cs",
+              "RelativeDocumentMoniker": "Druggie\\FormAdminPanel.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormAdminPanel.cs",
+              "RelativeToolTip": "Druggie\\FormAdminPanel.cs",
+              "ViewState": "AQIAACsBAAAAAAAAAAAswDkBAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-11-16T11:37:42.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormDrugEdit.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormDrugEdit.cs",
+              "RelativeDocumentMoniker": "Druggie\\FormDrugEdit.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormDrugEdit.cs",
+              "RelativeToolTip": "Druggie\\FormDrugEdit.cs",
+              "ViewState": "AgIAALgBAAAAAAAAAAAUwHgBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-16T11:37:42.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormInstruction.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormInstruction.cs",
+              "RelativeDocumentMoniker": "Druggie\\FormInstruction.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormInstruction.cs",
+              "RelativeToolTip": "Druggie\\FormInstruction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-11-16T11:37:43.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Authorization.cs [Design]",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\Authorization.cs",
+              "RelativeDocumentMoniker": "Druggie\\Authorization.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\Authorization.cs [Design]",
+              "RelativeToolTip": "Druggie\\Authorization.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-11-16T11:37:43.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserModeModel.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\UserModeModel.cs",
+              "RelativeDocumentMoniker": "DruggieLibrary\\UserModeModel.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\UserModeModel.cs",
+              "RelativeToolTip": "DruggieLibrary\\UserModeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-16T11:37:43.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\UserModel.cs",
+              "RelativeDocumentMoniker": "DruggieLibrary\\UserModel.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\UserModel.cs",
+              "RelativeToolTip": "DruggieLibrary\\UserModel.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-16T11:37:43.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDrugModel.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\UserDrugModel.cs",
+              "RelativeDocumentMoniker": "DruggieLibrary\\UserDrugModel.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\UserDrugModel.cs",
+              "RelativeToolTip": "DruggieLibrary\\UserDrugModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-16T11:37:43.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SqliteDataAccess.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\SqliteDataAccess.cs",
+              "RelativeDocumentMoniker": "DruggieLibrary\\SqliteDataAccess.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\SqliteDataAccess.cs",
+              "RelativeToolTip": "DruggieLibrary\\SqliteDataAccess.cs",
+              "ViewState": "AQIAALYBAAAAAAAAAAAAALsAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-16T11:37:43.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManufacturerModel.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\ManufacturerModel.cs",
+              "RelativeDocumentMoniker": "DruggieLibrary\\ManufacturerModel.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\ManufacturerModel.cs",
+              "RelativeToolTip": "DruggieLibrary\\ManufacturerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-16T11:37:43.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IndicationModel.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\IndicationModel.cs",
+              "RelativeDocumentMoniker": "DruggieLibrary\\IndicationModel.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\IndicationModel.cs",
+              "RelativeToolTip": "DruggieLibrary\\IndicationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-16T11:37:43.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IModel.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\IModel.cs",
+              "RelativeDocumentMoniker": "DruggieLibrary\\IModel.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\IModel.cs",
+              "RelativeToolTip": "DruggieLibrary\\IModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-16T11:37:43.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Hashing.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\Hashing.cs",
+              "RelativeDocumentMoniker": "DruggieLibrary\\Hashing.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\Hashing.cs",
+              "RelativeToolTip": "DruggieLibrary\\Hashing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-17T13:07:36.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\Extensions.cs",
+              "RelativeDocumentMoniker": "DruggieLibrary\\Extensions.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\Extensions.cs",
+              "RelativeToolTip": "DruggieLibrary\\Extensions.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-17T13:07:31.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DrugModelConstructed.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\DrugModelConstructed.cs",
+              "RelativeDocumentMoniker": "DruggieLibrary\\DrugModelConstructed.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\DrugModelConstructed.cs",
+              "RelativeToolTip": "DruggieLibrary\\DrugModelConstructed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-16T11:37:43.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DrugModel.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\DrugModel.cs",
+              "RelativeDocumentMoniker": "DruggieLibrary\\DrugModel.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\DrugModel.cs",
+              "RelativeToolTip": "DruggieLibrary\\DrugModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-16T11:37:43.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CountryModel.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\CountryModel.cs",
+              "RelativeDocumentMoniker": "DruggieLibrary\\CountryModel.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\CountryModel.cs",
+              "RelativeToolTip": "DruggieLibrary\\CountryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-16T11:37:43.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClassModel.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\ClassModel.cs",
+              "RelativeDocumentMoniker": "DruggieLibrary\\ClassModel.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\ClassModel.cs",
+              "RelativeToolTip": "DruggieLibrary\\ClassModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-16T11:37:43.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ActiveIngredientModel.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\ActiveIngredientModel.cs",
+              "RelativeDocumentMoniker": "DruggieLibrary\\ActiveIngredientModel.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\DruggieLibrary\\ActiveIngredientModel.cs",
+              "RelativeToolTip": "DruggieLibrary\\ActiveIngredientModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-16T11:37:43.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormAdminPanel.Designer.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormAdminPanel.Designer.cs",
+              "RelativeDocumentMoniker": "Druggie\\FormAdminPanel.Designer.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormAdminPanel.Designer.cs",
+              "RelativeToolTip": "Druggie\\FormAdminPanel.Designer.cs",
+              "ViewState": "AQIAAD8DAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2022-11-16T11:37:43.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormAdminPanel.resx",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormAdminPanel.resx",
+              "RelativeDocumentMoniker": "Druggie\\FormAdminPanel.resx",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormAdminPanel.resx",
+              "RelativeToolTip": "Druggie\\FormAdminPanel.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2022-11-23T13:57:40.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormDrugEdit.cs [Design]",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormDrugEdit.cs",
+              "RelativeDocumentMoniker": "Druggie\\FormDrugEdit.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormDrugEdit.cs [Design]",
+              "RelativeToolTip": "Druggie\\FormDrugEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-11-16T11:37:43.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\Program.cs",
+              "RelativeDocumentMoniker": "Druggie\\Program.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\Program.cs",
+              "RelativeToolTip": "Druggie\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-11-16T11:37:43.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormInstruction.cs [Design]",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormInstruction.cs",
+              "RelativeDocumentMoniker": "Druggie\\FormInstruction.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormInstruction.cs [Design]",
+              "RelativeToolTip": "Druggie\\FormInstruction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2022-11-16T11:37:42.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormDrugEdit.Designer.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormDrugEdit.Designer.cs",
+              "RelativeDocumentMoniker": "Druggie\\FormDrugEdit.Designer.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormDrugEdit.Designer.cs",
+              "RelativeToolTip": "Druggie\\FormDrugEdit.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2022-11-16T11:37:43.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Authorization.Designer.cs",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\Authorization.Designer.cs",
+              "RelativeDocumentMoniker": "Druggie\\Authorization.Designer.cs",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\Authorization.Designer.cs",
+              "RelativeToolTip": "Druggie\\Authorization.Designer.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAUwLgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2022-11-16T11:37:43.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SQLiteFunction.cs",
+              "DocumentMoniker": "C:\\Users\\robom\\AppData\\Local\\Temp\\MetadataAsSource\\31c03415ff8d4bfe990a66739986c60c\\DecompilationMetadataAsSourceFileProvider\\0270b673f8844337a9276f85427a4b84\\SQLiteFunction.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Users\\robom\\AppData\\Local\\Temp\\MetadataAsSource\\31c03415ff8d4bfe990a66739986c60c\\DecompilationMetadataAsSourceFileProvider\\0270b673f8844337a9276f85427a4b84\\SQLiteFunction.cs",
+              "ToolTip": "System.Data.SQLite.SQLiteFunction",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenToolTip": "System.Data.SQLite.SQLiteFunction",
+              "WhenOpened": "2022-11-05T17:40:05.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormDrugEdit.resx",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormDrugEdit.resx",
+              "RelativeDocumentMoniker": "Druggie\\FormDrugEdit.resx",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\FormDrugEdit.resx",
+              "RelativeToolTip": "Druggie\\FormDrugEdit.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2022-11-16T11:37:43.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\App.config",
+              "RelativeDocumentMoniker": "Druggie\\App.config",
+              "ToolTip": "C:\\Universe\\SPBGTI\\\u0411\u0430\u0437\u044B \u0434\u0430\u043D\u043D\u044B\u0445\\\u041A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\App\\Druggie - Final Final\\Druggie\\App.config",
+              "RelativeToolTip": "Druggie\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2022-11-16T11:37:43.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

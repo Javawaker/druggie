@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Druggie", "Druggie\Druggie.csproj", "{0FC14FBF-806A-463C-B8F9-2C990093B460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DruggieLibrary", "DruggieLibrary\DruggieLibrary.csproj", "{31371475-09CB-4CF5-9C77-C34E2861789C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FC14FBF-806A-463C-B8F9-2C990093B460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC14FBF-806A-463C-B8F9-2C990093B460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC14FBF-806A-463C-B8F9-2C990093B460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC14FBF-806A-463C-B8F9-2C990093B460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31371475-09CB-4CF5-9C77-C34E2861789C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31371475-09CB-4CF5-9C77-C34E2861789C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31371475-09CB-4CF5-9C77-C34E2861789C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31371475-09CB-4CF5-9C77-C34E2861789C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCA274F4-2EF2-43DB-93BA-9053992B6E9B}
+	EndGlobalSection
+EndGlobal

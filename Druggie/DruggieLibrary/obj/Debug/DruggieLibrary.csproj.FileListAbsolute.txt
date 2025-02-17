@@ -1,0 +1,65 @@
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\DruggieLibrary\obj\Debug\DruggieLibrary.csproj.AssemblyReference.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\DruggieLibrary\obj\Debug\DruggieLibrary.csproj.CoreCompileInputs.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\DruggieLibrary\bin\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\DruggieLibrary\bin\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\DruggieLibrary\bin\Debug\Dapper.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\DruggieLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\DruggieLibrary\bin\Debug\Dapper.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\DruggieLibrary\bin\Debug\System.Data.SQLite.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\DruggieLibrary\obj\Debug\DruggieLibrary.csproj.CopyComplete
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\DruggieLibrary\obj\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\DruggieLibrary\obj\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\DruggieLibrary\bin\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\DruggieLibrary\bin\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\DruggieLibrary\bin\Debug\Dapper.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\DruggieLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\DruggieLibrary\bin\Debug\Dapper.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\DruggieLibrary\bin\Debug\System.Data.SQLite.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\DruggieLibrary\obj\Debug\DruggieLibrary.csproj.AssemblyReference.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\DruggieLibrary\obj\Debug\DruggieLibrary.csproj.CoreCompileInputs.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\DruggieLibrary\obj\Debug\DruggieLibrary.csproj.CopyComplete
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\DruggieLibrary\obj\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\DruggieLibrary\obj\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\DruggieLibrary\bin\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\DruggieLibrary\bin\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\DruggieLibrary\bin\Debug\Dapper.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\DruggieLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\DruggieLibrary\bin\Debug\Dapper.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\DruggieLibrary\bin\Debug\System.Data.SQLite.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\DruggieLibrary\obj\Debug\DruggieLibrary.csproj.AssemblyReference.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\DruggieLibrary\obj\Debug\DruggieLibrary.csproj.CoreCompileInputs.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\DruggieLibrary\obj\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\DruggieLibrary\obj\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\DruggieLibrary\bin\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\DruggieLibrary\bin\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\DruggieLibrary\bin\Debug\Dapper.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\DruggieLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\DruggieLibrary\bin\Debug\Dapper.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\DruggieLibrary\bin\Debug\System.Data.SQLite.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\DruggieLibrary\obj\Debug\DruggieLibrary.csproj.AssemblyReference.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\DruggieLibrary\obj\Debug\DruggieLibrary.csproj.CoreCompileInputs.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\DruggieLibrary\obj\Debug\DruggieLibrary.csproj.CopyComplete
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\DruggieLibrary\obj\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\DruggieLibrary\obj\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\DruggieLibrary\bin\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\DruggieLibrary\bin\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\DruggieLibrary\bin\Debug\Dapper.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\DruggieLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\DruggieLibrary\bin\Debug\Dapper.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\DruggieLibrary\bin\Debug\System.Data.SQLite.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\DruggieLibrary\obj\Debug\DruggieLibrary.csproj.AssemblyReference.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\DruggieLibrary\obj\Debug\DruggieLibrary.csproj.CoreCompileInputs.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\DruggieLibrary\obj\Debug\DruggieLibrary.csproj.CopyComplete
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\DruggieLibrary\obj\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\DruggieLibrary\obj\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\DruggieLibrary\bin\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\DruggieLibrary\bin\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\DruggieLibrary\bin\Debug\Dapper.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\DruggieLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\DruggieLibrary\bin\Debug\Dapper.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\DruggieLibrary\bin\Debug\System.Data.SQLite.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\DruggieLibrary\obj\Debug\DruggieLibrary.csproj.AssemblyReference.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\DruggieLibrary\obj\Debug\DruggieLibrary.csproj.CoreCompileInputs.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\DruggieLibrary\obj\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\DruggieLibrary\obj\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\DruggieLibrary\obj\Debug\DruggieL.F78AFBAF.Up2Date

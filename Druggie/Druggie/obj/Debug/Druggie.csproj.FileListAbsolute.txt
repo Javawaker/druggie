@@ -1,0 +1,127 @@
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\bin\Debug\Druggie.exe.config
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\bin\Debug\Druggie.exe
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\bin\Debug\Druggie.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\obj\Debug\Druggie.csproj.AssemblyReference.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\obj\Debug\Druggie.csproj.SuggestedBindingRedirects.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\obj\Debug\Druggie.Authorization.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\obj\Debug\Druggie.Properties.Resources.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\obj\Debug\Druggie.csproj.GenerateResource.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\obj\Debug\Druggie.csproj.CoreCompileInputs.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\obj\Debug\Druggie.exe
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\obj\Debug\Druggie.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\bin\Debug\DruggieDB.db
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\bin\Debug\Dapper.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\bin\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\bin\Debug\System.Data.SQLite.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\bin\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\bin\Debug\Dapper.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\bin\Debug\System.Data.SQLite.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\obj\Debug\Druggie.csproj.CopyComplete
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\obj\Debug\Druggie.FormDrugEdit.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\bin\Debug\DruggieDB.db
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\bin\Debug\Druggie.exe.config
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\bin\Debug\Druggie.exe
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\bin\Debug\Druggie.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\bin\Debug\Dapper.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\bin\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\bin\Debug\System.Data.SQLite.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\bin\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\bin\Debug\Dapper.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\bin\Debug\System.Data.SQLite.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\obj\Debug\Druggie.csproj.AssemblyReference.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\obj\Debug\Druggie.csproj.SuggestedBindingRedirects.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\obj\Debug\Druggie.Authorization.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\obj\Debug\Druggie.FormDrugEdit.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\obj\Debug\Druggie.FormAdminPanel.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\obj\Debug\Druggie.Properties.Resources.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\obj\Debug\Druggie.csproj.GenerateResource.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\obj\Debug\Druggie.csproj.CoreCompileInputs.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\obj\Debug\Druggie.csproj.CopyComplete
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\obj\Debug\Druggie.exe
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5)\Druggie\obj\Debug\Druggie.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\obj\Debug\Druggie.csproj.AssemblyReference.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\obj\Debug\Druggie.Authorization.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\obj\Debug\Druggie.FormDrugEdit.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\obj\Debug\Druggie.FormAdminPanel.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\obj\Debug\Druggie.Properties.Resources.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\obj\Debug\Druggie.csproj.GenerateResource.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\obj\Debug\Druggie.csproj.CoreCompileInputs.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\obj\Debug\Druggie.exe
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\obj\Debug\Druggie.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\bin\Debug\DruggieDB.db
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\bin\Debug\Druggie.exe.config
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\bin\Debug\Druggie.exe
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\bin\Debug\Druggie.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\bin\Debug\Dapper.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\bin\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\bin\Debug\System.Data.SQLite.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\bin\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\bin\Debug\Dapper.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Copy (5) - HELP\Druggie\bin\Debug\System.Data.SQLite.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\obj\Debug\Druggie.FormInstruction.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie\Druggie\obj\Debug\Druggie.FormAdminPanel.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\bin\Debug\DruggieDB.db
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\bin\Debug\Druggie.exe.config
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\bin\Debug\Druggie.exe
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\bin\Debug\Druggie.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\bin\Debug\Dapper.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\bin\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\bin\Debug\System.Data.SQLite.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\bin\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\bin\Debug\Dapper.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\bin\Debug\System.Data.SQLite.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\obj\Debug\Druggie.csproj.AssemblyReference.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\obj\Debug\Druggie.csproj.SuggestedBindingRedirects.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\obj\Debug\Druggie.Authorization.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\obj\Debug\Druggie.FormAdminPanel.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\obj\Debug\Druggie.FormDrugEdit.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\obj\Debug\Druggie.FormInstruction.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\obj\Debug\Druggie.Properties.Resources.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\obj\Debug\Druggie.csproj.GenerateResource.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\obj\Debug\Druggie.csproj.CoreCompileInputs.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\obj\Debug\Druggie.csproj.CopyComplete
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\obj\Debug\Druggie.exe
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final\Druggie\obj\Debug\Druggie.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\bin\Debug\DruggieDB.db
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\bin\Debug\Druggie.exe.config
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\bin\Debug\Druggie.exe
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\bin\Debug\Druggie.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\bin\Debug\Dapper.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\bin\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\bin\Debug\System.Data.SQLite.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\bin\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\bin\Debug\Dapper.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\bin\Debug\System.Data.SQLite.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\obj\Debug\Druggie.csproj.AssemblyReference.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\obj\Debug\Druggie.csproj.SuggestedBindingRedirects.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\obj\Debug\Druggie.Authorization.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\obj\Debug\Druggie.FormAdminPanel.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\obj\Debug\Druggie.FormDrugEdit.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\obj\Debug\Druggie.FormInstruction.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\obj\Debug\Druggie.Properties.Resources.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\obj\Debug\Druggie.csproj.GenerateResource.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\obj\Debug\Druggie.csproj.CoreCompileInputs.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\obj\Debug\Druggie.csproj.CopyComplete
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\obj\Debug\Druggie.exe
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final - Copy (2)\Druggie\obj\Debug\Druggie.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\bin\Debug\DruggieDB.db
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\bin\Debug\Druggie.exe.config
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\bin\Debug\Druggie.exe
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\bin\Debug\Druggie.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\bin\Debug\Dapper.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\bin\Debug\DruggieLibrary.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\bin\Debug\System.Data.SQLite.dll
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\bin\Debug\DruggieLibrary.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\bin\Debug\Dapper.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\bin\Debug\System.Data.SQLite.xml
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\obj\Debug\Druggie.csproj.AssemblyReference.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\obj\Debug\Druggie.Authorization.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\obj\Debug\Druggie.FormAdminPanel.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\obj\Debug\Druggie.FormDrugEdit.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\obj\Debug\Druggie.FormInstruction.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\obj\Debug\Druggie.Properties.Resources.resources
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\obj\Debug\Druggie.csproj.GenerateResource.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\obj\Debug\Druggie.csproj.CoreCompileInputs.cache
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\obj\Debug\Druggie.exe
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\obj\Debug\Druggie.pdb
+C:\Universe\SPBGTI\Базы данных\Курсовик\App\Druggie - Final Final\Druggie\obj\Debug\Druggie.csproj.Up2Date
